@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+article {
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/01/4f/2d/ac/bonita-springs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+   
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
