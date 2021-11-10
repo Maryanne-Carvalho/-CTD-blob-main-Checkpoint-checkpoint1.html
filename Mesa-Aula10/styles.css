@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+#imagem {
+    background-image: url("https://images.wallpapersden.com/image/download/cyrodiil-pixel-art_a2loameUmZqaraWkpJRmZ21lrWxnZQ.jpg");
+    background-repeat: no-repeat;
+    height: 720px; 
+    width: 1200px;
+}
+.titulo{
+    color: purple;
+   text-align: center;
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: gainsboro;
+    color: red;
+    
+}
