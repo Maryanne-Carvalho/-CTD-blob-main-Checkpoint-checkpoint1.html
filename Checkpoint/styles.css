@@ -1,0 +1,48 @@
+ * {
+
+} 
+body {
+    background-image: url(https://c0.wallpaperflare.com/preview/908/237/247/brazil-sao-paulo-r-jose-maria-lisboa-drone.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#color {
+    background-color: rgba(128, 255, 0, 0.514); 
+    height: 85px;
+    
+    
+    
+}
+
+#titulo {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 190%;
+    padding: 15px;
+}
+#texto {
+    background-color: rgba(255, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 90%;
+}
+iframe {
+   
+    margin-left: 0vw;
+  transform: translate(0%);
+}
+#curiosidade {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 200%;
+    height: 200%;
+    
+}
+img{
+    width: 80px ;
+    height: 80px;
+    margin: 50px 20px;
+}
+
