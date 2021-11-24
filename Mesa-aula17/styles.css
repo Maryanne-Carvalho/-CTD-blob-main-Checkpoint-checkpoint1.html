@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@keyframes floating {
+   0% {
+    transform: translate(10%, 0)
+    }
+    
+    100% {
+        transform: translate(300%,0)
+    }
+}
+
+
+
+
+div {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    border-radius: 50px;
+    animation-name: floating;
+    animation-duration: 1s;
+}
+
+div:hover {
+    background-color: rgb(111, 246, 246);
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin: 0 50px;
+    transform: rotate(360deg);
+}
+
+img:hover {
+    transform: rotate(360);
+}
